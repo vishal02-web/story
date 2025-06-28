@@ -1,1 +1,3 @@
-hi this is third file in which i am learning git 
+
+hi this is third file in  
+this is the third chapter fo branching 
